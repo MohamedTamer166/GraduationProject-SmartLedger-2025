@@ -332,7 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **Email**: [motsememamhussain@gmail.com](mailto:your.email@example.com)
+- **Email**: [mohamedtamerr8@gmail.com](mailto:your.email@example.com)
 
 ---
 
